@@ -1,5 +1,13 @@
 # @emdash-cms/plugin-embeds
 
+## 0.1.3
+
+### Patch Changes
+
+- Updated dependencies [[`f2b3973`](https://github.com/emdash-cms/emdash/commit/f2b39739c13cbef86ed16be007f08abf86b0f9ca), [`c70f66f`](https://github.com/emdash-cms/emdash/commit/c70f66f7da66311fcf2f5922f23cdf951cdaff5f)]:
+  - emdash@0.3.0
+  - @emdash-cms/blocks@0.3.0
+
 ## 0.1.2
 
 ### Patch Changes
